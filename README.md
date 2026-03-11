@@ -14,7 +14,8 @@ L_VHR=| VHR(G(z,y))-VHR_target |
 L_(MSE-height)=( h(G(z,y))-h_target )^2
 L_G=-E_(z,y) [ D(G(z,y),y) ]+λ〖(L〗_VHR+L_(MSE-height))
 
-Comparison(This model vs Vanilla GAN)
+Comparison(This model vs Vanilla GAN):
+
 This model:
 <img width="1408" height="384" alt="image" src="https://github.com/user-attachments/assets/241b2f2b-2c0a-433d-88bc-ed353dd8858d" />
 
