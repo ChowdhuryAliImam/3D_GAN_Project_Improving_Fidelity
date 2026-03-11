@@ -1,7 +1,7 @@
 The codes are for training a 3D GAN model.
 The GAN architecture is designed with a custom loss function and utilization of morphometric data for improving the fidelity of geometry in the generaed designs.
-I named it MDI-GAN
-This is a course Project for UIUC CEE-598 course, Fall 2025
+I named it MDI-GAN.
+This is a course Project for UIUC CEE-598 course, Fall 2025.
 GAN architecture:
 <img width="1431" height="747" alt="image" src="https://github.com/user-attachments/assets/518671d4-84eb-41ed-a9d1-0db0c4e68edc" />
 
